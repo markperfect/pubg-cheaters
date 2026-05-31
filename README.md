@@ -107,7 +107,3 @@ Running `main.py` will:
 2. Count observer–cheater motifs in the actual data
 3. Generate 10 randomized datasets (`shuffled_data_*`)
 4. Display a histogram comparing actual vs. randomized motif counts
-
-## License
-
-See repository history for authorship. Data remains subject to the original assignment's privacy restrictions.
