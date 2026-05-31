@@ -48,7 +48,6 @@ The number of observer–cheater motifs in the actual data is plotted as a verti
 | `cheater_motifs.py` | Identifies observers and counts new cheaters |
 | `shuffle.py` | Randomizes kill order within matches and saves pickle files |
 | `PUBG Project Overview.ipynb` | Assignment brief, data description, and `%run main.py` demo |
-| `MY470_final_assign.ipynb` | Course submission notebook |
 
 ## Requirements
 
